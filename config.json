@@ -1,0 +1,6 @@
+{
+    "sounds_directory": "C:\\Program Files\\Sounds\\sounds",
+    "play_duration_secs": 2,
+    "file_extensions": ["wav", "mp3", "flac", "ogg"],
+    "volume": 50
+}
